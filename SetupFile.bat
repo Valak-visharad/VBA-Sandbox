@@ -1,0 +1,1 @@
+"C:\Users\Django\Downloads\Software Setups\Open Applications\ngrok-v3-stable-windows-amd64\ngrok.exe" http 8888 | jupyter notebook
